@@ -90,6 +90,37 @@ O projeto simula cenários reais de testes automatizados, garantindo maior confi
 
 ---
 
+## 🔹 Banking Performance Lab
+
+Projeto de testes de performance desenvolvido com foco em observabilidade, análise de métricas e validação de desempenho de APIs em cenários simulados do setor bancário.
+
+O projeto utiliza uma arquitetura completa com k6, Grafana, InfluxDB e WireMock para execução de testes de carga, monitoramento em tempo real e análise de indicadores de performance.
+
+### Principais entregas:
+
+- Testes de performance com k6
+- Simulação de fluxo bancário completo
+- Autenticação OAuth
+- Criação e validação de pagamentos
+- Implementação de checks automatizados
+- Configuração de thresholds de performance
+- Monitoramento em tempo real com Grafana
+- Persistência de métricas com InfluxDB
+- Simulação de APIs com WireMock
+- Monitoramento de Virtual Users (VUs)
+- Análise de throughput (Requests/s)
+- Análise de tempo de resposta (avg, p90 e p95)
+- Monitoramento de taxa de erro
+- Dashboard customizado de observabilidade
+- Ambiente containerizado com Docker
+- Estrutura organizada para testes de performance
+- Documentação técnica completa
+- Arquitetura escalável para novos cenários
+
+🔗 [Acessar projeto](https://github.com/SaraFabre/banking-performance-lab)
+
+---
+
 # 🌎 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sara-fabre-962655387)
